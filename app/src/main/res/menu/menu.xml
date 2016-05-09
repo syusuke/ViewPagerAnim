@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:id="@+id/one"
-        android:title="第一种"/>
-    <item
-        android:id="@+id/two"
-        android:title="第二种"/>
-</menu>
