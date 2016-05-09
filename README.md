@@ -9,7 +9,8 @@
 ```
 
 ## 1.app
-![](app/vp1.gif)
+![](app/Screencast_1.gif)
+![](app/Screencast_2.gif)
 
 ## 主要参考资料
 - http://developer.android.com/training/animation/screen-slide.html
